@@ -11,7 +11,7 @@ module.exports = {
       network_id: "*"
     },
     matic: {
-      provider: () => new HDWalletProvider("rug garage forget medal fiscal join ready such flower wrap credit ticket", `https://polygon-mumbai.g.alchemy.com/v2/dxeJoEtg1sqInDqQzUPD4_uUFtNzOA4g`),
+      provider: () => new HDWalletProvider("haha", `https://polygon-mumbai.g.alchemy.com/v2/haha`),
       network_id: 80001,
       confirmations: 2,
       timeoutBlocks: 200,
